@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BetApp</string>
+    <string name="betclicButton">Go on th betClic sit</string>
+    <string name="oddButton">See all the odd</string>
+    <string name="downlodFinished">The .xml downloading file is finished</string>
+</resources>

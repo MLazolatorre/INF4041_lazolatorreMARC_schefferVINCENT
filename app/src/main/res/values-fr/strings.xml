@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="betclicButton">Aller sur le site de betClic</string>
+    <string name="oddButton">Voir toutes les cotes</string>
+    <string name="downlodFinished">Le téléchargement du fichier .xml est terminé</string>
+</resources>
